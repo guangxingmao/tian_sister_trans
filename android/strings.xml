@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="niubi">冇</string>
     <string name="app_name">Math Wallet</string>
     <string name="wallet">지갑</string>
     <string name="position">포지션</string>
